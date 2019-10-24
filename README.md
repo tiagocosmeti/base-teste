@@ -23,6 +23,6 @@ Para isso, utilize o banco de dados MySQL e crie um **CRUD** utilizando api **RE
 **OBS:** É importante descrever como levantar seu projeto
 
 
-Faça um **FORK** deste projeto e quando terminar faça um **PULL REQUEST** para valiarmos seu teste.
+Faça um **FORK** deste projeto e quando terminar faça um **PULL REQUEST** para avaliarmos seu teste.
 
 Boa sorte!
