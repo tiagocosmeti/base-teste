@@ -21,3 +21,8 @@ Para isso, utilize o banco de dados MySQL e crie uma **CRUD** como api **REST**.
 
 
 **OBS:** É importante descrever como levantar seu projeto
+
+
+Faça um **FORK** deste projeto e quando terminar faça um **PULL REQUEST** para valiarmos seu teste.
+
+Boa sorte!
