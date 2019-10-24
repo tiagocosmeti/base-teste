@@ -9,4 +9,15 @@ Desenvolva uma aplicação PHP 7+ utilizando o framework Laravel para resolver o
 Uma administradora de imóveis precisa realizar o cadastro dos imóveis que ela administra. Os dados que ela gostaria de guardar são:
 
 - Endereço do imóvel
+- Bairro
+- Municipio
+- Estado
+- CEP ( Deve validar o padrão 00000-000 )
 - Tipo do Imóvel ( Apartamento, Casa, Sítio, Andar )
+- Nome do Proprietário
+
+
+Para isso, utilize o banco de dados MySQL e crie uma **CRUD** como api **REST**. Deve ser possível pesquisar todos os imóveis de um municipio ou bairro. Deve ser possível também paginar e ordenar a lista de imóveis por bairro e município.
+
+
+**OBS:** É importante descrever como levantar seu projeto
