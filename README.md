@@ -17,7 +17,7 @@ Uma administradora de imóveis precisa realizar o cadastro dos imóveis que ela 
 - Nome do Proprietário
 
 
-Para isso, utilize o banco de dados MySQL e crie um **CRUD** utilizando api **REST**. Deve ser possível pesquisar todos os imóveis de um municipio ou bairro. Deve ser possível também paginar e ordenar a lista de imóveis por bairro e município (não é necessário criar o front das telas, somente back com retorno em Json).
+Para isso, utilize o banco de dados MySQL e crie um **CRUD** utilizando **API REST**. Deve ser possível pesquisar todos os imóveis de um municipio ou bairro. Deve ser possível também paginar e ordenar a lista de imóveis por bairro e município (**não é necessário criar o front das telas**, somente back com retorno em **JSON**).
 
 
 **OBS:** É importante descrever como levantar seu projeto. Arquivos compactados (zip ou rar) no pull request serão desconsiderados.
